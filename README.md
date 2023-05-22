@@ -1,2 +1,2 @@
 # Delcatty
-Gerador de imagens de gatinhos, com música calma para ajudar na ansiedade!
+Delcatty é um programa que pega imagens de gatinhos e as apresenta na tela. O programa pode ter uma música (basta colocar um .mp3 com o nome OST na mesma pasta, estou usando Home de Undertale). O programa tem a opção de salvar, que para ser usada você deve pausar. A opção criará uma pasta, e a imagem salva terá a qualidade certa da imagem (já que o programa pode perder ela na hora de apresentar). Algumas imagens podem ser gifs também!.
